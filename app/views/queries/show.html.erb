@@ -1,0 +1,18 @@
+<p>
+  <b>Name:</b>
+  <%=h @query.name %>
+</p>
+
+<p>
+  <b>Query:</b>
+  <%=h @query.query %>
+</p>
+
+<p>
+  <b>Notes:</b>
+  <%=h @query.notes %>
+</p>
+
+<a href="http://prodigioussolutions.net/queries/crawlq/<%= @query.id %>">'Crawl'</a>
+<%= link_to 'Edit', edit_query_path(@query) %> |
+<%= link_to 'Back', queries_path %>

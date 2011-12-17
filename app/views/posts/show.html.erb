@@ -1,0 +1,17 @@
+<% form_for(@post) do |f| %>
+  <%= f.error_messages %>
+
+
+<%= doc = open(@post.url) { |f| Hpricot(f) } %>
+<h2><%= @post.title %></h2>
+<hr><%= doc.search('/html/body/div[3]') %><br>
+
+<br>
+    <%= f.text_area :ereply %>
+  <p>
+    <%= f.submit 'Update' %>
+  &nbsp;|&nbsp;
+<% end %>
+
+<%= link_to 'Close', @post %> &nbsp;|&nbsp;
+<%= link_to 'Back', posts_path %>

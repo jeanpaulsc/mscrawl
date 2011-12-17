@@ -1,0 +1,14 @@
+<h1>Listing posts</h1>
+
+<table>
+
+<% @posts.each do |post| %>
+  <tr>
+    <td><b><%=h post.title %></b></td>
+    <td><%= link_to 'Show',  post %></td>&nbsp;
+    <td><%= link_to 'Close', post, :confirm => 'Are you sure?', :method => :close %></td></b>
+  </tr>
+<% end %>
+</table>
+
+<br />

@@ -1,0 +1,1689 @@
+--- 
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: auburn
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: bham
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: dothan
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: shoals
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: gadsden
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: huntsville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: mobile
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: montgomery
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: tuscaloosa
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: anchorage
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: fairbanks
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: kenai
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: juneau
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: flagstaff
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: mohave
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: phoenix
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: prescott
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: showlow
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: sierravista
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: tucson
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: yuma
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: fayar
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: fortsmith
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: jonesboro
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: littlerock
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: texarkana
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: bakersfield
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: chico
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: fresno
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: goldcountry
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: hanford
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: humboldt
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: imperial
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: inlandempire
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: losangeles
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: mendocino
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: merced
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: modesto
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: monterey
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: orangecounty
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: palmsprings
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: redding
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: sacramento
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: sandiego
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: sfbay
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: slo
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: santabarbara
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: santamaria
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: siskiyou
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: stockton
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: susanville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: ventura
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: visalia
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: yubasutter
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: boulder
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: cosprings
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: denver
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: eastco
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: fortcollins
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: rockies
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: pueblo
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: westslope
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: newlondon
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: hartford
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: newhaven
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: nwct
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: delaware
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: washingtondc
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: daytona
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: keys
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: fortlauderdale
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: fortmyers
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: gainesville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: cfl
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: jacksonville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lakeland
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lakecity
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: okaloosa
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: orlando
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: panamacity
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: pensacola
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: sarasota
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: miami
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: spacecoast
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: staugustine
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: tallahassee
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: tampa
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: treasure
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: westpalmbeach
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: albanyga
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: athensga
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: atlanta
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: augusta
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: brunswick
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: columbusga
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: macon
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: nwga
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: savannah
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: statesboro
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: valdosta
+  - !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: honolulu
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: boise
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: eastidaho
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lewiston
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: twinfalls
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: bn
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: chambana
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: chicago
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: decatur
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lasalle
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: mattoon
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: peoria
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: rockford
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: carbondale
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: springfield
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: quincy
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: bloomington
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: evansville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: fortwayne
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: indianapolis
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: kokomo
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lafayette
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: muncie
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: richmond
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: southbend
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: terrehaute
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: ames
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: cedarrapids
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: desmoines
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: dubuque
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: fortdodge
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: iowacity
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: masoncity
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: quadcities
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: siouxcity
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: ottumwa
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: waterloo
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lawrence
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: nwks
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: salina
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: seks
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: swks
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: topeka
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: wichita
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: bgky
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: eastky
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lexington
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: louisville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: owensboro
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: westky
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: batonrouge
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: cenla
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: houma
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lafayette
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lakecharles
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: monroe
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: neworleans
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: shreveport
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: maine
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: annapolis
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: baltimore
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: easternshore
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: frederick
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: smd
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: westmd
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: boston
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: capecod
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: southcoast
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: westernmass
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: worcester
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: annarbor
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: battlecreek
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: centralmich
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: detroit
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: flint
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: grandrapids
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: holland
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: jackson
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: kalamazoo
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lansing
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: monroe
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: muskegon
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: nmi
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: porthuron
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: saginaw
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: swmi
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: thumb
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: up
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: bemidji
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: brainerd
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: duluth
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: mankato
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: minneapolis
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: rochester
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: marshall
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: stcloud
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: gulfport
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: hattiesburg
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: jackson
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: meridian
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: northmiss
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: natchez
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: columbia
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: joplin
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: kansascity
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: kirksville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: loz
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lawrence
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: ksu
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: ottumwa
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: seks
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: carbondale
+  - !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: springfieldil
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: semo
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: springfield
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: stjoseph
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: stlouis
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: billings
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: bozeman
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: butte
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: greatfalls
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: helena
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: kalispell
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: missoula
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: montana
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: grandisland
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lincoln
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: northplatte
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: omaha
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: scottsbluff
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: elko
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lasvegas
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: reno
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: nh
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: cnj
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: jerseyshore
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: newjersey
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: southjersey
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: albuquerque
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: clovis
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: farmington
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lascruces
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: roswell
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: santafe
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: albany
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: binghamton
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: buffalo
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: catskills
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: chautauqua
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: elmira
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: fingerlakes
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: glensfalls
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: hudsonvalley
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: ithaca
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: longisland
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: newyork
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: oneonta
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: plattsburgh
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: potsdam
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: rochester
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: syracuse
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: twintiers
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: utica
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: watertown
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: asheville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: boone
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: charlotte
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: eastnc
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: fayetteville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: greensboro
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: hickory
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: jacksonville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: outerbanks
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: raleigh
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: wilmington
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: winstonsalem
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: bismarck
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: fargo
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: grandforks
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: nd
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: akroncanton
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: ashtabula
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: athens
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: chillicothe
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: cincinnati
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: cleveland
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: columbus
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: dayton
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lima
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: mansfield
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: sandusky
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: toledo
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: tuscarawas
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: youngstown
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: zanesville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lawton
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: enid
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: oklahomacity
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: stillwater
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: tulsa
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: bend
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: corvallis
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: eastoregon
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: eugene
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: klamath
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: medford
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: oregoncoast
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: portland
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: roseburg
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: salem
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: altoona
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: chambersburg
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: erie
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: harrisburg
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lancaster
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: allentown
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: meadville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: philadelphia
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: pittsburgh
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: poconos
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: reading
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: scranton
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: pennstate
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: williamsport
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: york
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: providence
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: charleston
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: columbia
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: florence
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: greenville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: hiltonhead
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: myrtlebeach
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: nesd
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: csd
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: rapidcity
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: siouxfalls
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: sd
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: chattanooga
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: clarksville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: cookeville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: jackson
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: knoxville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: memphis
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: nashville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: tricities
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: abilene
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: amarillo
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: austin
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: beaumont
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: brownsville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: collegestation
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: corpuschristi
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: dallas
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: nacogdoches
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: delrio
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: elpaso
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: galveston
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: houston
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: killeen
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: laredo
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lubbock
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: mcallen
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: odessa
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: sanangelo
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: sanantonio
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: sanmarcos
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: bigbend
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: texoma
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: easttexas
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: victoria
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: waco
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: wichitafalls
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: logan
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: ogden
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: provo
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: saltlakecity
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: stgeorge
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: burlington
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: charlottesville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: danville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: fredericksburg
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: norfolk
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: harrisonburg
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lynchburg
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: blacksburg
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: richmond
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: roanoke
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: swva
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: winchester
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: bellingham
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: kpr
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: moseslake
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: olympic
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: pullman
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: seattle
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: skagit
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: spokane
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: wenatchee
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: yakima
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: charleston
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: martinsburg
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: huntington
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: morgantown
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: wheeling
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: parkersburg
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: swv
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: wv
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: appleton
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: eauclaire
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: greenbay
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: janesville
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: racine
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: lacrosse
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: madison
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: milwaukee
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: northernwi
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: sheboygan
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: wausau
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: wyoming
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: micronesia
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: puertorico
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: virgin

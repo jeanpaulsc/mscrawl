@@ -1,0 +1,24 @@
+<h1>Crawler</h1>
+<%= $list.each do |r| %>
+<%= url << "http://" << r.region << $query.query %>
+<p><b><%= puts url %></b>
+<%= if(data = open(url).read) %>
+ <%=       s = StringScanner.new(data) %>
+<%=        cont = 1  %>
+ <%=       s.scan_until(/(http:\/\/)\S+.(craigslist.org\/)\S{3}(\/cpg\/)\d{10}.(html)/) %>    
+ <%=       while (cont && s.matched()) %>
+<%=          @post = Post.new %>
+<%=          @post.url = s.matched() %>
+  <%=        if( @post.save ) %>
+<%=            s.scan_until(/(http:\/\/)\S+.(craigslist.org\/)\S{3}(\/cpg\/)\d{10}.(html)/) %>
+<br><%=         puts @post.url %>
+
+<%=          else %>
+<%=            cont = 0 %>
+<%=          end %>
+ <%=       end %>
+ <%=     else  %>
+ <%=       @errors.push(s.matched()) %>
+<%=    end %></p>
+
+<%= link_to 'Back', posts_path %>

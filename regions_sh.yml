@@ -1,0 +1,25 @@
+---
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: cnj
+
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: hudsonvalley
+
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: sfbay
+
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: islandempire
+
+- !ruby/object:Region 
+  country: USA
+  most_recent_post: nil
+  name: monteray
